@@ -33,7 +33,7 @@ The total number of votes cast
 
 2.The percentage of votes each candidate won
 
-3. The total number of votes each candidate won
+3.The total number of votes each candidate won
 
 4.The winner of the election based on popular vote
 
