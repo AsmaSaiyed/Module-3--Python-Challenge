@@ -4,6 +4,7 @@ This Challenge comprises of using Python code for two seperate files in VS Code.
 
 
 **PY Bank**
+
 Your task is to create a Python script that analyzes the Financial Records. The dataset is composed of two columns: "Date" and "Profit/Losses". The aim of this challenge is to calculate each of the following values:
 
 1.The total number of months included in the dataset
@@ -26,6 +27,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 
 **PY Poll**
+
 In this challenge the task is related with helping a small, rural town modernize its vote-counting process.The dataset is composed of three columns: "Voter ID", "County", and "Candidate". The goal here is to create a Python script that analyzes the votes and calculates each of the following values:
 The total number of votes cast
 
